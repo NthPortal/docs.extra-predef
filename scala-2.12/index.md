@@ -1,4 +1,6 @@
-<head><title>extra-predef - Scala 2.12</title></head>
+# extra-predef - Scala 2.12
+
+[<=](..)
 
 [latest](0.3.0)
 
