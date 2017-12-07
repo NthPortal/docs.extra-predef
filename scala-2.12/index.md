@@ -1,4 +1,4 @@
-title: extra-predef - Scala 2.12
+<head><title>extra-predef - Scala 2.12</title></head>
 
 [latest](0.3.0)
 
